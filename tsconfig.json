@@ -3,6 +3,9 @@
 {
   "compileOnSave": false,
   "compilerOptions": {
+    "paths": {
+"rxjs": ["./node_modules/rxjs"]
+},
     "outDir": "./dist/out-tsc",
     "strict": true,
     "noImplicitOverride": true,
